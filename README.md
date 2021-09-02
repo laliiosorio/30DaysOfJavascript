@@ -1,1 +1,1 @@
-# 30DaysOfJavascript
+# WesBos Challenge - #30DaysOfCode
